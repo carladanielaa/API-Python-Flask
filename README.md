@@ -52,7 +52,7 @@ Para criar um novo carro, envie uma requisição POST para o endpoint `/carros` 
 
 Clone este repositório para sua máquina local:
 
-git clone https://github.com/carladanielaa/API-Python-Flask.git
+git clone https://github.com/seu_usuario/seu_repositorio.git
 
 cd seu_repositorio
 
